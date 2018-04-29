@@ -7,3 +7,9 @@ https://www.kaggle.com/c/titanic
 pip install --upgrade pip
 pip install -r requirements.txt -c constraints.txt
 ```
+
+## Execution
+
+```
+jupyter notebook --matplotlib inline
+```
